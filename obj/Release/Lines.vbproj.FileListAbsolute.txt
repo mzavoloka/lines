@@ -1,0 +1,10 @@
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\bin\Release\Lines.exe
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\bin\Release\Lines.pdb
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\bin\Release\Lines.xml
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\obj\Release\Lines.Form1.resources
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\obj\Release\Lines.Resources.resources
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\obj\Release\Lines.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\obj\Release\Lines.exe
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\obj\Release\Lines.xml
+C:\Documents and Settings\Misha\My Documents\Visual Studio 2008\Projects\Lines\obj\Release\Lines.pdb
